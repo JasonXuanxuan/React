@@ -1,2 +1,2 @@
-# React
+# LEARNING NOTE
 react+redux+reactrouter
